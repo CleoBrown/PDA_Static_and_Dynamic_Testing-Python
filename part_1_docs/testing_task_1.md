@@ -34,7 +34,7 @@ class CardGame:
     return card2
   
 
-
+  #def block should be indented
 def cards_total(self, cards):
   #"total" should be instantiated to 0
   total
