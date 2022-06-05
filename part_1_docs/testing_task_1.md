@@ -20,6 +20,7 @@ class CardGame:
       # should be: ==
     if card.value = 1:
       return True
+    #should have colon
     else
       return False
    
