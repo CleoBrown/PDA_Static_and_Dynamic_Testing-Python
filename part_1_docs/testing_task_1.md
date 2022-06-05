@@ -40,6 +40,7 @@ def cards_total(self, cards):
   total
   for card in cards:
     total += card.value
-  # return should not be indented inside body of for loop
+  #return should not be indented inside body of for loop
+  #total needs to be a string
     return "You have a total of" + total
 ```
